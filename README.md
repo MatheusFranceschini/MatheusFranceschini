@@ -2,6 +2,7 @@
 
 🔭 I’m currently working on developing myself. Learning more about Fullstack technologies, Mobile Development and Devops. 
 
+
 💻 My skills:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,10 +28,10 @@
 
 
 ## 📊 My stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4tprog&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFranceschini&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⭐ Take a look at my favorite project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M4tprog&repo=POKEDEX&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card]("#")](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MatheusFranceschini/MatheusFranceschini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
