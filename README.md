@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-🔭 I’m currently working on developing myself. Learning more about Fullstack technologies, Mobile Development and Devops. My skills:
+🔭 I’m currently working on developing myself. Learning more about Fullstack technologies, Mobile Development and Devops. 
+
+💻 My skills:
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
-My interests:
+❤️ My interests:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
@@ -17,11 +19,18 @@ My interests:
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-How to reach me:
+🏃🏻‍♂️ How to reach me:
 
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](http://google.com)
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/ms.franceschini/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/matheus-franceschini-80976a190/)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:masuzena@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:ms.franceschini.14@gmail.com)
+
+
+##📊 My stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M4tprog&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+##⭐ Take a look at my favorite project
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=M4tprog&repo=POKEDEX&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MatheusFranceschini/MatheusFranceschini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
