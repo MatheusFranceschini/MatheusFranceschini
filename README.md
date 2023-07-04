@@ -52,7 +52,7 @@
 ---
 
 ## ⭐ Take a look at my favorite project
-<!-- [![Readme Card]("#")](https://github.com/anuraghazra/github-readme-stats) -->
+[![Curriculo]("https://github.com/MatheusFranceschini/Curriculo")](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
