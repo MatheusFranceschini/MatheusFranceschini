@@ -47,12 +47,12 @@
 ---
 
 ## 📊 My stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFranceschini&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusFranceschini&show_icons=true&theme=radical)
 
 ---
 
 ## ⭐ Take a look at my favorite project
-[![Curriculo]("https://github-readme-stats.vercel.app/api/pin/?username=MatheusFranceschini&repo=Curriculo&show_icons=true&theme=dark")](https://github.com/MatheusFranceschini/Curriculo)
+[![Curriculo](https://github-readme-stats.vercel.app/api/pin/?username=MatheusFranceschini&repo=Curriculo&theme=radical&show_owner=true)](https://matheusfranceschini.github.io/Curriculo/)
 
 
 <!--
