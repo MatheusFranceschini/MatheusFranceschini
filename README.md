@@ -52,7 +52,7 @@
 ---
 
 ## ⭐ Take a look at my favorite project
-[![Curriculo](https://github-readme-stats.vercel.app/api/pin/?username=MatheusFranceschini&repo=Curriculo&theme=radical&show_owner=true)](https://matheusfranceschini.github.io/Curriculo/)
+[![Curriculo](https://github-readme-stats.vercel.app/api/pin/?username=MatheusFranceschini&repo=curriculo&theme=radical&show_owner=true)](https://matheusfranceschini.github.io/curriculo/)
 
 
 <!--
